@@ -26,5 +26,20 @@ console.log(Object.values(user));
 for(x in user){
     console.log(user[x]);
 }
+*************************************************************************************************************************************************
+fuction factorial (number){//function declaration
+   var sum =1;
+   for(i=0 ; i <= number;i++){
+    res=sum*i;
+   }
+   console.log(res);
+}
+factorial(5);
+
+
+
+
+
+
 
 
