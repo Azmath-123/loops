@@ -8,3 +8,12 @@ for(i=0;i<=10;i++){
     b = temp;
 }
 
+// nth number of fibonacci using recursion
+ 
+function fibonacci(n){
+        if(n<=1){
+            return n;
+        }
+        return fibonacci(n-1)+fibonacci(n-2);
+}
+console.log(fibonacci(5));
