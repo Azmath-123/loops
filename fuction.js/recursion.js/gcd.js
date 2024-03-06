@@ -9,3 +9,7 @@ const num2 = 16;
 
 const result = gcd(num1, num2);
 console.log(`GCD of ${num1} and ${num2} is: ${result}`);
+
+
+
+1 to 16

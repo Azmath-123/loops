@@ -9,3 +9,4 @@ const inputString = "hello";
 const reversedString = reverseString(inputString);
 console.log(`Original String: ${inputString}`);
 console.log(`Reversed String: ${reversedString}`);
+
